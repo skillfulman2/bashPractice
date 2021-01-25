@@ -18,6 +18,9 @@ else
 fi
 
 #concatination
-c=$st1$st2
+c=$st1$st2i
 
+#echo ${st1^l}
+
+#echo ${st2^^l}
 echo $c
