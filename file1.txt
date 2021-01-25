@@ -1,0 +1,13 @@
+total 64
+drwxr-xr-x  12 ryanremaly  staff   384 Jan 24 14:22 .
+drwxr-xr-x@ 41 ryanremaly  staff  1312 Jan 23 09:44 ..
+drwxr-xr-x  12 ryanremaly  staff   384 Jan 24 12:29 .git
+-rwxr-xr-x@  1 ryanremaly  staff   215 Jan 23 09:44 caseEx.sh
+-rw-r--r--   1 ryanremaly  staff     0 Jan 24 14:22 file1.txt
+-rw-r--r--   1 ryanremaly  staff    35 Jan 24 14:19 file2.txt
+-rwxr-xr-x   1 ryanremaly  staff   216 Jan 24 13:37 forLoop.sh
+-rwxr-xr-x   1 ryanremaly  staff   259 Jan 24 12:29 loops.sh
+-rwxr-xr-x   1 ryanremaly  staff   105 Jan 24 13:52 scriptInput.sh
+-rwxr-xr-x   1 ryanremaly  staff    73 Jan 24 13:54 scriptInputPipe.sh
+-rwxr-xr-x   1 ryanremaly  staff    70 Jan 24 14:22 scriptOutput.sh
+-rwxr-xr-x   1 ryanremaly  staff   173 Jan 24 13:19 untilLoop.sh
